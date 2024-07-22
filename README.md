@@ -1,3 +1,4 @@
+![logo](https://github.com/AYUSHsingh0714/AYUSHsingh0714/blob/main/Data%20banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A Data Analyst from India</h3>
 
